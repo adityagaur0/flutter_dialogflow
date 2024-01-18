@@ -25,7 +25,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('AMBot'),
+        title: Text('Aditya Bot'),
       ),
       body: Container(
         child: Column(
